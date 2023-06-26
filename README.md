@@ -43,3 +43,6 @@ public class AppConfig {
 ```
 
 通过将需要应用事务的方法移动到不同的类中并进行依赖注入，可以确保事务注解正确地应用于方法调用，从而使事务正常工作。
+
+
+参考[JPA的事务注解@Transactional使用总结_jpa transactional_qq_duhai的博客-CSDN博客](https://blog.csdn.net/qq_16504067/article/details/117252765)
